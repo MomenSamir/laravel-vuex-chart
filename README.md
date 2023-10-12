@@ -56,9 +56,3 @@ You can find the Vue app structure under `resources/js`
   🗳 App.vue
   🗳 App.js
 ```
-
-```bash
-composer run-script sail
-```
-
-You should find the app running in any port value set for `APP_PORT` in `.env`.
